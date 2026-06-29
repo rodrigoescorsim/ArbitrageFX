@@ -37,5 +37,5 @@ arbitrage trades with real-time risk management and position sizing.
 
 ## Author
 
-Rodrigo Maia Escorsim — Senior C++/MQL Developer
+Rodrigo Escorsim — Senior C++/MQL Developer
 [GitHub](https://github.com/rodrigoescorsim) · [CacheSnap](https://cachesnap.com)
